@@ -1,0 +1,37 @@
+[
+    {
+        "id": "daad6401-3612-4444-a0f0-c147d40fa04e",
+        "name": "Ironclad",
+        "length": "15",
+        "width": "13",
+        "code": "AAAA-1111-A1"
+    },
+    {
+        "id": "88678e80-939f-453e-9ca9-91b7e935b127",
+        "name": "Frigate",
+        "length": "25",
+        "width": "23",
+        "code": "BBBB-3333-B1"
+    },
+    {
+        "id": "c54c1c8e-1f92-4bbf-9fc5-728c70f3e572",
+        "name": "Cruiser",
+        "length": "10",
+        "width": "8",
+        "code": "CCCC-5555-C5"
+    },
+    {
+        "id": "b3efd7ef-a9c4-4153-925b-c09d6b824363",
+        "name": "Galleon",
+        "length": "5",
+        "width": "3",
+        "code": "ABCD-1234-E6"
+    },
+    {
+        "id": "3354fdfd-bb90-4931-8cc8-8527129048dc",
+        "name": "Corvette",
+        "length": "35",
+        "width": "13",
+        "code": "HHLA-2244-T9"
+    }
+]
